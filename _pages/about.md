@@ -34,7 +34,7 @@ My main research interests focus on Reinforcement Learning (RL), and more specif
 
 Industrial Collaborations
 ---
-I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on potential applications of Distributed RL for Industry 4.0, in particular for the distributed control of a production plant, which usually goes under the umbrella name of Job-Shop Scheduling Problem (I believe a good old introduction can be found [here](https://d-nb.info/996018298/34)).
+I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on potential applications of Distributed RL for Industry 4.0, in applications like the distributed control of a production plant, which usually goes under the umbrella name of Job-Shop Scheduling Problem (I believe a good old introduction can be found [here](https://d-nb.info/996018298/34)).
 
 Credits
 ---
