@@ -57,10 +57,10 @@
     {% endif %}
     -->
     
-    {% if post.content and post.paperurl %}
-      <p>TL;DR: {{ post.content }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.content %}
-      <p>TL;DR: {{ post.content }} </p>
+    {% if post.tldr and post.paperurl %}
+      <p>TL;DR: {{ post.tldr }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% elsif post.tldr %}
+      <p>TL;DR: {{ post.tldr }} </p>
     {% elsif post.paperurl %}
       <p>Look at <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
