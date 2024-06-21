@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 **R. Zamboni**, D. Cirino, M. Mutti and M. Restelli. 2024. "The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough”. Proceedings of the 1st Reinforcement Learning Conference (RLC)
 
