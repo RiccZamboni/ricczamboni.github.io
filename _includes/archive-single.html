@@ -59,10 +59,10 @@
     {% if post.date %}
     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time></p>
     {% endif %}
-    {% if post.tldr and post.paperurl and post.date %}
-      <p> (**{{post.date}}**) TL;DR: {{ post.tldr }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% if post.tldr and post.paperurl %}
+      <p> **TL;DR**: {{ post.tldr }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.tldr %}
-      <p>TL;DR: {{ post.tldr }} </p>
+      <p> **TL;DR**: {{ post.tldr }} </p>
     {% elsif post.paperurl %}
       <p>Look at <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
