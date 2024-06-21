@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Etc."
+title: "et al."
 permalink: /news/
 author_profile: true
 ---
