@@ -17,7 +17,7 @@ I am a PhD Student, working on (Multi-Agent) Reinforcement Learning under the su
 Research Interests
 ---
 My main research interests focus on Reinforcement Learning (RL), and more specifically <b>Multi-Agent Reinfocement Learning</b>. I am currently investigating on the frontiers between single-agent and multi-agent problems looking for new ways towards principled multi-agent reinforcement learning for real-world applications.
-My long term research goal is to understand the role of information-sharing in passing over the existing (and often limiting) common frameworks, like Centralized Training Decentralized Execution, (as for Chapter 9.1 of this [nice book](https://www.marl-book.com/download/marl-book.pdf)). The aim is to develop a theoretical understanding of how single-agent methods can be distributed through communication, without paying too much in terms of RL performance. (un)Fortunately, little has changed since [Laurer & Riedmiller (2000)](https://dl.acm.org/doi/10.5555/645529.658113).
+My long term research goal is to understand the role of information-sharing in passing over the existing (and often limiting) common frameworks, like Centralized Training Decentralized Execution (as for Chapter 9.1 of this [nice book](https://www.marl-book.com/download/marl-book.pdf)). The aim is to develop a theoretical understanding of how single-agent methods can be distributed through communication, without paying too much in terms of RL performance. (un)Fortunately, little has changed since [Laurer & Riedmiller (2000)](https://dl.acm.org/doi/10.5555/645529.658113).
 
 Industrial Collaborations
 ---
