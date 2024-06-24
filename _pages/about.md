@@ -35,7 +35,7 @@ Teaching Activities
 ---
 In the Academic Years 2022-2023 & 2023-2024 I have been working as Teaching Assistant for the Course of [Informatics](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=081369&aa=2022&k_cf=225&k_corso_la=352&ac_ins=0&k_indir=ENN&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=1&idItemOfferta=159766&idRiga=283265&codDescr=081369) by Prof. [A. Marchesi](https://albymarke.github.io/). 
 
-In the Academic Year 2002-2023 I did some Tutoring Activities for the [Master in Data Science & AI](https://masterdatascienceai.cefriel.it/) held by Cefriel.
+In the Academic Year 2022-2023 I did some Tutoring Activities for the [Master in Data Science & AI](https://masterdatascienceai.cefriel.it/) held by Cefriel.
 
 Credits
 ---
