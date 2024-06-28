@@ -23,19 +23,23 @@ Industrial Collaborations
 ---
 I am passionate about applying RL to challenging tasks. Currently, I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on potential applications of Distributed RL for Industry 4.0. Currently, we are addressing in the distributed control of a production plant, which usually goes under the umbrella name of Job-Shop Scheduling Problem (I believe a good old introduction can be found [here](https://d-nb.info/996018298/34)).
 
-Before
----
-Between 2019 and 2022 I worked first as a R&D Control Engineer for [e-Novia](https://e-novia.it/), then briefly as an Embedded SW Engineer for [Kalpa](https://www.kalpa.it/), and finally as a Research Scholar at [DEIB](https://www.deib.polimi.it/) working on Distributed Methods for Industry 4.0.
-
-In October 2019, I received my Master of Science in Automation and Control Engineering at Politecnico di Milano (with honors), defending the thesis "[Introducing a proprio-ceptive feedback in the bio-inspired Tegotae control approach : enhanced learning and energy efficiency](https://www.politesi.polimi.it/handle/10589/149946)", under the supervision of Prof. [Fabio Dercole](https://dercole.faculty.polimi.it/index.html) and Prof. [Mitsuhiro Hayashibe](https://scholar.google.com/citations?user=2VmKkUkAAAAJ&hl=en), which resulted from a visiting research program at the [Neuro-Robotics Laboratory](http://neuro.mech.tohoku.ac.jp/) of Tohoku Univesity.
-
-In July 2017, I obtained a Bachelor of Mechatronics Engineering from University of Trento (with honors), defending a thesis on [Mathematical Control Theory](/files/tesi-triennale.pdf){:target="_blank"}{:rel="noopener noreferrer"}) (in Italian, unfortunately).
-
 Teaching Activities
 ---
 In the Academic Years 2022-2023 & 2023-2024 I have been working as Teaching Assistant for the Course of [Informatics](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=081369&aa=2022&k_cf=225&k_corso_la=352&ac_ins=0&k_indir=ENN&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=1&idItemOfferta=159766&idRiga=283265&codDescr=081369) by Prof. [A. Marchesi](https://albymarke.github.io/). 
 
 In the Academic Year 2022-2023 I did some Tutoring Activities for the [Master in Data Science & AI](https://masterdatascienceai.cefriel.it/) held by Cefriel.
+
+Work Experience
+---
+Between 2019 and 2022 I worked first as a R&D Control Engineer for [e-Novia](https://e-novia.it/), then briefly as an Embedded SW Engineer for [Kalpa](https://www.kalpa.it/), and finally as a Research Scholar at [DEIB](https://www.deib.polimi.it/) working on Distributed Methods for Industry 4.0.
+
+Education
+---
+
+In October 2019, I received my Master of Science in Automation and Control Engineering at Politecnico di Milano (with honors), defending the thesis "[Introducing a proprio-ceptive feedback in the bio-inspired Tegotae control approach : enhanced learning and energy efficiency](https://www.politesi.polimi.it/handle/10589/149946)", under the supervision of Prof. [Fabio Dercole](https://dercole.faculty.polimi.it/index.html) and Prof. [Mitsuhiro Hayashibe](https://scholar.google.com/citations?user=2VmKkUkAAAAJ&hl=en), which resulted from a visiting research program at the [Neuro-Robotics Laboratory](http://neuro.mech.tohoku.ac.jp/) of Tohoku Univesity.
+
+In July 2017, I obtained a Bachelor of Mechatronics Engineering from University of Trento (with honors), defending a thesis on [Mathematical Control Theory](/files/tesi-triennale.pdf){:target="_blank"}{:rel="noopener noreferrer"}) (in Italian, unfortunately).
+
 
 Credits
 ---
