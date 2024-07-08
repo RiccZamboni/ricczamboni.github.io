@@ -43,6 +43,6 @@ In July 2017, I obtained a Bachelor of Mechatronics Engineering from University 
 
 Credits
 ---
-You can have a look at my full CV [here](/files/cv.pdf){:target="_blank"}{:rel="noopener noreferrer"}. It might not be updated very often.
+You can have a look at my full CV [here](/files/CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. It might not be updated very often.
 
 Feel free to contact me by e-mail, I am always open to collaborations!
