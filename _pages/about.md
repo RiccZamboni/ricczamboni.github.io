@@ -10,18 +10,18 @@ redirect_from:
 
 Briefly
 ---
-I am a PhD Student, working on (Multi-Agent) Reinforcement Learning under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
+I am a PhD Student, working on Reinforcement Learning under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
 ([DEIB](https://www.deib.polimi.it/)) of Politecnico di Milano.
 
 
 Research Interests
 ---
-My main research interests focus on Reinforcement Learning (RL), and more specifically <b>Multi-Agent Reinfocement Learning</b>. I am currently investigating on the frontiers between single-agent and multi-agent problems looking for new ways towards principled multi-agent reinforcement learning for real-world applications.
-My long term research goal is to understand the role of information-sharing in passing over the existing (and often limiting) common frameworks, like Centralized Training Decentralized Execution (as for Chapter 9.1 of this [nice book](https://www.marl-book.com/download/marl-book.pdf)). The aim is to develop a theoretical understanding of how single-agent methods can be distributed through communication, without paying too much in terms of RL performance. (un)Fortunately, little has changed since [Laurer & Riedmiller (2000)](https://dl.acm.org/doi/10.5555/645529.658113).
+My main research interests focus on Reinforcement Learning (RL), and more specifically <b>Multi-Agent Reinfocement Learning</b> (MARL). Generally, I am investigating on the role of information in defining the frontiers between single-agent and multi-agent problems with the long term goal of passing over the existing (and often limiting) common frameworks, like Centralized Training Decentralized Execution (as for Chapter 9.1 of this [nice book](https://www.marl-book.com/download/marl-book.pdf)) and data abundance. My aim is to develop a theoretical understanding of how single-agent methods can be distributed through communication, without paying too much in terms of RL performance. (un)Fortunately, little has changed since [Laurer & Riedmiller (2000)](https://dl.acm.org/doi/10.5555/645529.658113). 
+Currently, I am focusing on how to learn purely explorative policies in multi-agent settings and on how to design scalable offline algorithms based on information-sharing.
 
 Industrial Collaborations
 ---
-I am passionate about applying RL to challenging tasks. Currently, I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on potential applications of Distributed RL for Industry 4.0. Currently, we are addressing in the distributed control of a production plant, which usually goes under the umbrella name of Job-Shop Scheduling Problem (I believe a good old introduction can be found [here](https://d-nb.info/996018298/34)).
+I am passionate about applying RL to challenging tasks and looking for new ways towards principled MARL for real-world applications. In particular, I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0. Currently, we are addressing information-sharing extensions of single-agent RL the distributed control of a production plant, which usually goes under the umbrella name of Job-Shop Scheduling Problem (I believe a good old introduction can be found [here](https://d-nb.info/996018298/34)).
 
 Teaching Activities
 ---
