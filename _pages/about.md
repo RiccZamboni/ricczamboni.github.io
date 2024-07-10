@@ -21,7 +21,7 @@ Currently, I am focusing on how to learn purely explorative policies in multi-ag
 
 Industrial Collaborations
 ---
-I am passionate about applying RL to challenging tasks and looking for new ways towards principled MARL for real-world applications. In particular, I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0. and the distributed control of a production plant, which usually goes under the umbrella name of Job-Shop Scheduling Problem (I believe a good old introduction can be found [here](https://d-nb.info/996018298/34)).
+I am passionate about applying RL to challenging tasks and looking for new ways towards principled MARL for real-world applications. In particular, I am currently collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0.
 
 Teaching Activities
 ---
