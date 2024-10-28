@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-(**10-2024**) I am visiting [S. V. Albrecht](https://scholar.google.co.uk/citations?user=ceSFqCcAAAAJ&hl=en)'s [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk) in Edinburgh, U.K., for 6 months.
+(**10-2024**) I am visiting for 6 months [S. V. Albrecht](https://scholar.google.co.uk/citations?user=ceSFqCcAAAAJ&hl=en)'s [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk) in Edinburgh, U.K.
 
 (**02-2024**) I am attending the [Machine Learning Summer School](https://groups.oist.jp/mlss) in Onna, Japan.
 
