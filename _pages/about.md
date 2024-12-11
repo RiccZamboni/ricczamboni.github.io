@@ -16,12 +16,13 @@ I am a PhD Student, working on Reinforcement Learning under the supervision of P
 
 Research Interests
 ---
-My main research interests focus on Reinforcement Learning (RL), and more specifically <b>Multi-Agent Reinfocement Learning</b> (MARL). Generally, I am investigating on the role of information in defining the frontiers between single-agent and multi-agent problems with the long term goal of passing over the existing (and often limiting) common frameworks, like Centralized Training Decentralized Execution (as for Chapter 9.1 of this [nice book](https://www.marl-book.com/download/marl-book.pdf)) and data abundance. My aim is to develop a theoretical understanding of how single-agent methods can be distributed through communication, without paying too much in terms of RL performance. (un)Fortunately, little has changed since [Laurer & Riedmiller (2000)](https://dl.acm.org/doi/10.5555/645529.658113). 
-Currently, I am focusing on how to learn purely explorative policies in multi-agent settings and on how to design scalable offline algorithms based on information-sharing.
+My main research interests focus on Reinforcement Learning (RL), and more specifically <b>Multi-Agent Reinfocement Learning</b> (MARL). Generally, I am investigating on the role of information past single-agent scenarios, with the long term goal of passing over the existing (and often limiting) common frameworks, like data abundance (i.e. fast simulation) and Centralized Training (as for Chapter 9.1 of this [nice book](https://www.marl-book.com/download/marl-book.pdf)). 
+More specifically, I am working on developing an understanding of how single-agent methods can be distributed through communication of information, how (decision-making) data should be collected a-priori of a task in the presence of partial observability and strategic entities, and what it the best way to learn over it offline once it is collected.
 
 Industrial Collaborations
 ---
-I am passionate about applying RL to challenging tasks and looking for new ways towards principled MARL for real-world applications. In particular, I am currently collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0.
+I am passionate about applying RL to challenging tasks and looking for new ways towards principled MARL for real-world applications, being a chance for pushing forwards the bounds of such techniques once they clash with the complexity of non-simplified scenarios. 
+Throughout my PhD, I collaborated with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0 and Industrial Production Scheduling.
 
 Teaching Activities
 ---
