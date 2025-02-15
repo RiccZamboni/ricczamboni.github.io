@@ -13,12 +13,10 @@ Briefly
 I am a PhD Student under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
 ([DEIB](https://www.deib.polimi.it/)) of Politecnico di Milano.
 
-You can find my (mostly) up to date CV [here](/files/CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. Turn to my Scholar or Bluesky page to catch up with more recent agenda.
+You can find my (mostly) up to date CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. Turn to my Scholar or Bluesky page to catch up with more recent agenda.
 
 Feel free to drop an email for inquiries and questions!
 
-Briefly
----
 My research interest is in <b>Reinforcement Learning<b> (RL). Generally, I am investigating how to pass over common requirements, like data abundance (i.e. fast simulation) or centralized training in the presence of many agents; often rather limiting requirements indeed. More specifically, my current research tackles what can be done a priori of a task specification: what kind of pre-training can be done over decision-making policies to make RL easier. More broadly, my aim is to advance theoretical understanding that can lead to successful application of RL in the real world. These include the study of partial observability, RL with general utilities, multi-agent RL among others. I am passionate about applying RL to challenging and real-world tasks, currently I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0 and Industrial Production Scheduling.
 
 
