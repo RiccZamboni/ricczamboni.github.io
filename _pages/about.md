@@ -13,7 +13,7 @@ Briefly
 I am a PhD Student under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
 ([DEIB](https://www.deib.polimi.it/)) of Politecnico di Milano.
 
-You can find my (mostly) up to date CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. Turn to my Scholar or Bluesky page to catch up with more recent agenda.
+You can find my (mostly) up to date CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. Turn to my Scholar or find me on BlueSky to catch up with more recent agenda.
 
 Feel free to drop an email for inquiries and questions!
 
