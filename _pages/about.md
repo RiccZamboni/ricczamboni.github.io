@@ -10,40 +10,28 @@ redirect_from:
 
 Briefly
 ---
-I am a PhD Student, working on Reinforcement Learning under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
+I am a PhD Student under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
 ([DEIB](https://www.deib.polimi.it/)) of Politecnico di Milano.
 
+You can find my (mostly) up to date CV [here](/files/CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. Turn to my Scholar or Bluesky page to catch up with more recent agenda.
 
-Research Interests
+Feel free to drop an email for inquiries and questions!
+
+Briefly
 ---
-My main research interests focus on Reinforcement Learning (RL), and more specifically <b>Multi-Agent Reinfocement Learning</b> (MARL). Generally, I am investigating on the role of information past single-agent scenarios, with the long term goal of passing over the existing (and often limiting) common frameworks, like data abundance (i.e. fast simulation) and Centralized Training (as for Chapter 9.1 of this [nice book](https://www.marl-book.com/download/marl-book.pdf)). 
-More specifically, I am working on developing an understanding of how single-agent methods can be distributed through communication of information, how (decision-making) data should be collected a-priori of a task in the presence of partial observability and strategic entities, and what it the best way to learn over it offline once it is collected.
+My research interest is in <b>Reinforcement Learning<b> (RL). Generally, I am investigating how to pass over common requirements, like data abundance (i.e. fast simulation) or centralized training in the presence of many agents; often rather limiting requirements indeed. More specifically, my current research tackles what can be done a priori of a task specification: what kind of pre-training can be done over decision-making policies to make RL easier. More broadly, my aim is to advance theoretical understanding that can lead to successful application of RL in the real world. These include the study of partial observability, RL with general utilities, multi-agent RL among others. I am passionate about applying RL to challenging and real-world tasks, currently I am collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0 and Industrial Production Scheduling.
 
-Industrial Collaborations
+
+News
 ---
-I am passionate about applying RL to challenging tasks and looking for new ways towards principled MARL for real-world applications, being a chance for pushing forwards the bounds of such techniques once they clash with the complexity of non-simplified scenarios. 
-Throughout my PhD, I collaborated with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0 and Industrial Production Scheduling.
+- I am attending the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas). See you in London!
+- I am visiting S. V. Albrecht and [David Abel](https://david-abel.github.io) at the [Autonomous Agents Research Group](https://agents-lab.org) in Edinburgh, U.K.
+- I am giving a talk to the [RL Virtual Reading Group](https://agents.inf.ed.ac.uk/reading-group/) about pushing forward our understanding of learning purely explorative policies in POMDPs, you can find the recording on [You Tube](https://www.youtube.com/watch?v=hAxd6--b7TM).
+- Grateful to be part of the Best Reviewer Award team at [ICML2024](https://icml.cc/virtual/2024/awards_detail).
+- I am attending the [Machine Learning Summer School](https://groups.oist.jp/mlss) in Onna, Japan.
+- Our paper [The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_95.pdf) accepted at the just born [RLC](https://rl-conference.cc/2024/index.html) conference!
+- Our paper [How to explore with belief: state entropy maximization in POMDPs](https://dl.acm.org/doi/10.5555/3692070.3694469) accepted at ICML 2024.
+- I am attending the [Reinforcement Learning Summer School](https://rlsummerschool.com/) in Barcelona, Spain.
+- I am taking part to the organization of the [15th European Workshop on Reinforcement Learning](https://ewrl.wordpress.com/past-ewrl/ewrl15-2022/) in Milan, Italy.
+- The first paper of my Phd [Distributional Policy Evaluation: a Maximum Entropy approach to Representation Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2a98af4fea6a24b73af7b588ca95f755-Abstract-Conference.html) accepted at NeurIPs 2023!
 
-Teaching Activities
----
-In the Academic Years 2022-2023 & 2023-2024 I have been working as Teaching Assistant for the Course of [Informatics](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=081369&aa=2022&k_cf=225&k_corso_la=352&ac_ins=0&k_indir=ENN&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=1&idItemOfferta=159766&idRiga=283265&codDescr=081369) by Prof. [A. Marchesi](https://albymarke.github.io/). 
-
-In the Academic Year 2022-2023 I did some Tutoring Activities for the [Master in Data Science & AI](https://masterdatascienceai.cefriel.it/) held by Cefriel.
-
-Work Experience
----
-Between 2019 and 2022 I worked first as a R&D Control Engineer for [e-Novia](https://e-novia.it/), then briefly as an Embedded SW Engineer for [Kalpa](https://www.kalpa.it/), and finally as a Research Scholar at [DEIB](https://www.deib.polimi.it/) working on Distributed Methods for Industry 4.0.
-
-Education
----
-
-In October 2019, I received my Master of Science in Automation and Control Engineering at Politecnico di Milano (with honors), defending the thesis "[Introducing a proprio-ceptive feedback in the bio-inspired Tegotae control approach : enhanced learning and energy efficiency](https://www.politesi.polimi.it/handle/10589/149946)", under the supervision of Prof. [Fabio Dercole](https://dercole.faculty.polimi.it/index.html) and Prof. [Mitsuhiro Hayashibe](https://scholar.google.com/citations?user=2VmKkUkAAAAJ&hl=en), which resulted from a visiting research program at the [Neuro-Robotics Laboratory](http://neuro.mech.tohoku.ac.jp/) of Tohoku Univesity.
-
-In July 2017, I obtained a Bachelor of Mechatronics Engineering from University of Trento (with honors), defending a thesis on [Mathematical Control Theory](/files/tesi-triennale.pdf){:target="_blank"}{:rel="noopener noreferrer"} (in Italian, unfortunately).
-
-
-Credits
----
-You can have a look at my full CV [here](/files/CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. It might not be updated very often.
-
-Feel free to contact me by e-mail, I am always open to collaborations!
