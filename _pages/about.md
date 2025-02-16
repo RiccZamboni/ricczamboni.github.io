@@ -23,13 +23,15 @@ My research interest is in Reinforcement Learning (RL). Generally, I am investig
 News
 ---
 - I am attending the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas). See you in London!
+- Our work on Scalable Multi-Agent Offline Reinforcement Learning
+and the Role of Information was accepted at RLDM 2025!
 - I am visiting S. V. Albrecht and [David Abel](https://david-abel.github.io) at the [Autonomous Agents Research Group](https://agents-lab.org) in Edinburgh, U.K.
 - I am giving a talk to the [RL Virtual Reading Group](https://agents.inf.ed.ac.uk/reading-group/) about pushing forward our understanding of learning purely explorative policies in POMDPs, you can find the recording on [You Tube](https://www.youtube.com/watch?v=hAxd6--b7TM).
 - Grateful to be part of the Best Reviewer Award team at [ICML2024](https://icml.cc/virtual/2024/awards_detail).
 - I am attending the [Machine Learning Summer School](https://groups.oist.jp/mlss) in Onna, Japan.
-- Our paper [The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_95.pdf) accepted at the just born [RLC](https://rl-conference.cc/2024/index.html) conference!
-- Our paper [How to explore with belief: state entropy maximization in POMDPs](https://dl.acm.org/doi/10.5555/3692070.3694469) accepted at ICML 2024.
+- Our paper [The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_95.pdf) was accepted at the just born [RLC](https://rl-conference.cc/2024/index.html) conference!
+- Our paper [How to explore with belief: state entropy maximization in POMDPs](https://dl.acm.org/doi/10.5555/3692070.3694469) was accepted at ICML 2024.
 - I am attending the [Reinforcement Learning Summer School](https://rlsummerschool.com/) in Barcelona, Spain.
 - I am taking part to the organization of the [15th European Workshop on Reinforcement Learning](https://ewrl.wordpress.com/past-ewrl/ewrl15-2022/) in Milan, Italy.
-- The first paper of my Phd [Distributional Policy Evaluation: a Maximum Entropy approach to Representation Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2a98af4fea6a24b73af7b588ca95f755-Abstract-Conference.html) accepted at NeurIPs 2023!
+- The first paper of my Phd [Distributional Policy Evaluation: a Maximum Entropy approach to Representation Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2a98af4fea6a24b73af7b588ca95f755-Abstract-Conference.html) was accepted at NeurIPs 2023!
 
