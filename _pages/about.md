@@ -23,8 +23,8 @@ My research interest is in Reinforcement Learning (RL). Generally, I am investig
 News
 ---
 - I am attending the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas). See you in London!
-- Our work on Scalable Multi-Agent Offline Reinforcement Learning
-and the Role of Information was accepted at RLDM 2025!
+- Our work on [Scalable Multi-Agent Offline Reinforcement Learning
+and the Role of Information](https://arxiv.org/abs/2502.11260) was accepted at RLDM 2025!
 - I am visiting S. V. Albrecht and [David Abel](https://david-abel.github.io) at the [Autonomous Agents Research Group](https://agents-lab.org) in Edinburgh, U.K.
 - I am giving a talk to the [RL Virtual Reading Group](https://agents.inf.ed.ac.uk/reading-group/) about pushing forward our understanding of learning purely explorative policies in POMDPs, you can find the recording on [You Tube](https://www.youtube.com/watch?v=hAxd6--b7TM).
 - Grateful to be part of the Best Reviewer Award team at [ICML2024](https://icml.cc/virtual/2024/awards_detail).
