@@ -20,6 +20,7 @@ My research interest lies in Reinforcement Learning (RL). Generally, I am intere
 
 News
 ---
+- Our work on [Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](https://arxiv.org/abs/2505.01336) was accepted at ICML 2025!
 - I am presenting our recent work [Towards Principled Multi-Agent Task Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas). See you in London!
 - Our work on [Scalable Multi-Agent Offline Reinforcement Learning
 and the Role of Information](https://arxiv.org/abs/2502.11260) was accepted at RLDM 2025!
