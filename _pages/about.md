@@ -10,12 +10,12 @@ redirect_from:
 
 Briefly
 ---
-I am a PhD Student under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
+I am a PhD candidate under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
 ([DEIB](https://www.deib.polimi.it/)) of Politecnico di Milano.
 
 You can find my (mostly) up to date CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. My Scholar or BlueSky profile might be more up-to-date with my most recent agenda. Also, feel free to drop an email for any inquiries or questions!
 
-My research interest lies in Reinforcement Learning (RL). Generally, I am interested in how to overcome common limitations, such as the need for data abundance (i.e., fast simulation) or centralized training when many agents are involved; these are often rather limiting requirements indeed. More specifically, my current research explores what can be done prior to task specification: what kind of pre-training can enhance decision-making policies to simplify RL. More broadly, my aim is to advance theoretical understanding that can lead to successful application of RL in the real world. This calls for the study of partial observability, multi-agent scenarios, and reinforcement learning with general utilities, among others. I am passionate about applying RL to challenging and real-world tasks, and I am currently collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0 and Industrial Production Scheduling.
+My research interest lies in Reinforcement Learning (RL). Generally, I am interested in how to overcome common limitations, such as the need for data abundance (i.e., fast simulation), training from scratch or centralized training when many agents are involved; these are often rather limiting requirements indeed. More specifically, my current research explores what can be done prior to task specification: what kind of pre-training can enhance decision-making policies to simplify RL. More broadly, my aim is to advance theoretical understanding that can lead to successful application of RL in the real world. This calls for the study of partial observability, multi-agent scenarios, and reinforcement learning with general utilities, among others. I am passionate about applying RL to challenging and real-world tasks, and I am currently collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0 and Industrial Production Scheduling.
 
 
 News
