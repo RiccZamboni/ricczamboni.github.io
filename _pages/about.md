@@ -10,20 +10,22 @@ redirect_from:
 
 Briefly
 ---
-I am a PhD candidate under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml), at the Department of Electronics, Informatics and Bio-engineering
-([DEIB](https://www.deib.polimi.it/)) of Politecnico di Milano.
 
-You can find my (mostly) up to date CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}. My Scholar or BlueSky profile might be more up-to-date with my most recent agenda. Also, feel free to drop an email for any inquiries or questions!
+I am a PhD candidate at Politecnico di Milano, working under the supervision of Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it).
 
-My research interest lies in Reinforcement Learning (RL). Generally, I am interested in how to overcome common limitations, such as the need for data abundance (i.e., fast simulation), training from scratch or centralized training when many agents are involved; these are often rather limiting requirements indeed. 
+You can check out my (mostly up-to-date) CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}, but for the freshest updates, my Scholar or BlueSky profiles might be more reliable. And if you're curious about anything, feel free to drop me an email, I’m always happy to chat!
 
-More specifically, my current research explores what can be done prior to task specification: what kind of pre-training can enhance decision-making policies to simplify solving downstream tasks! I am looking for methods that lead to broader generalization, zero-shot adaptation to the task and behavioral diversity. Broadly speaking, my aim is to advance theoretical understanding that can lead to successful application of RL in the real world. This calls for the study of partial observability, multi-agent scenarios, and reinforcement learning with general utilities, among others. I am passionate about applying RL to challenging and real-world tasks, and I am currently collaborating with [Siemens AT](https://new.siemens.com/at/de.html) on applying scalable MARL techniques for Industry 4.0 and Industrial Production Scheduling.
+My research is in Reinforcement Learning (RL), and I am especially interested in getting around some of the usual pain points, like relying on massive amounts of data, training everything from scratch, or needing centralized schemes when multiple agents are involved. Real-world applications don’t always play by those rules, unfortunately.
+
+Lately, I have been focused on what we can do before the actual task is even defined, things like pre-training models that make RL agents more general, more adaptable, and with more diverse behaviors. My goal is to develop methods that scale, generalize well, and are ready to tackle real-world messiness head-on.
+
+To that end, I have dived into topics like partial observability, multi-agent RL, and decision-making under general utility functions. I have also worked with Siemens AT to bring scalable multi-agent RL into industrial production scheduling, because what’s cooler than seeing theory meet factory floors?
 
 
 News
 ---
-- I started a research collaboration with [Inephany](https://www.inephany.com) on the use of RL for large model optimization! Excited to see what this will lead to!
-- Good news for explorers: the work with my amazing collaborators on [Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](https://arxiv.org/abs/2505.01336) was accepted at ICML 2025, and [Towards Principled Multi-Agent Task Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [EXAIT ICML Workshop](https://exait-workshop.github.io). See you in Vancouver!
+- I started a research collaboration with [Inephany](https://www.inephany.com) on the use of RL for large model optimization. Excited to see what this will lead to!
+- Good news for the explorers: the work with my amazing collaborators on [Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](https://arxiv.org/abs/2505.01336) was accepted at ICML 2025, and [Towards Principled Multi-Agent Task Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [EXAIT ICML Workshop](https://exait-workshop.github.io). See you in Vancouver!
 - I am presenting our recent work [Towards Principled Multi-Agent Task Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas). See you in London!
 - Our work on [Scalable Multi-Agent Offline Reinforcement Learning and the Role of Information](https://arxiv.org/abs/2502.11260) was accepted at RLDM 2025! Down to chat about scalable solutions for Offline MARL in Dublin!
 - I am visiting [Stefano V. Albrecht](https://agents-lab.org/stefano-albrecht/) and [David Abel](https://david-abel.github.io) at the [Autonomous Agents Research Group](https://agents-lab.org) in Edinburgh, U.K.
