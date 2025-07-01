@@ -24,8 +24,9 @@ To that end, I have dived into topics like partial observability, multi-agent RL
 
 News
 ---
+- Our work on [Remembering the Markov Property in Cooperative MARL](https://openreview.net/pdf?id=FUQLmpxLmC) got accepted at the [Finding the Frame](https://sites.google.com/view/findingtheframe/home) workshop at RLC 2025!
 - I started a research collaboration with [Inephany](https://www.inephany.com) on the use of RL for large (language) models optimization. Excited to see what this will lead to!
-- Good news for the explorers: the work with my amazing collaborators on [Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](https://arxiv.org/abs/2505.01336) was accepted at ICML 2025, and [Towards Unsupervised Multi-Agent Reinforcement Learning via Task-Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [EXAIT ICML Workshop](https://exait-workshop.github.io). See you in Vancouver!
+- Good news for the explorers: the work with my amazing collaborators on [Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](https://arxiv.org/abs/2505.01336) was accepted at ICML 2025, and [Towards Unsupervised Multi-Agent Reinforcement Learning via Task-Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [EXAIT](https://exait-workshop.github.io) workshop at ICML 2025. See you in Vancouver!
 - I am presenting our recent work [Towards Principled Multi-Agent Task Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas). See you in London!
 - Our work on [Scalable Multi-Agent Offline Reinforcement Learning and the Role of Information](https://arxiv.org/abs/2502.11260) was accepted at RLDM 2025! Down to chat about scalable solutions for Offline MARL in Dublin!
 - I am visiting [Stefano V. Albrecht](https://agents-lab.org/stefano-albrecht/) and [David Abel](https://david-abel.github.io) at the [Autonomous Agents Research Group](https://agents-lab.org) in Edinburgh, U.K.
