@@ -24,7 +24,7 @@ To that end, I have dived into topics like partial observability, multi-agent RL
 
 News
 ---
-- Our position paper on [Remembering the Markov Property in Cooperative MARL](https://arxiv.org/abs/2507.18333) got accepted at the [Finding the Frame](https://sites.google.com/view/findingtheframe/home) workshop at RLC 2025! Kale-ab will be in Edmonton to discuss, stop by!
+- Our position paper on [Remembering the Markov Property in Cooperative MARL](https://arxiv.org/abs/2507.18333) got accepted at the [Finding the Frame](https://sites.google.com/view/findingtheframe/home) workshop at RLC 2025! The awesome Kale-ab will be in Edmonton to present it, stop by!
 - I started a research collaboration with [Inephany](https://www.inephany.com) on the use of RL for large (language) models hyperparameter tuning. Excited to see what this will lead to!
 - Good news for the explorers: the work with my amazing collaborators on [Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](https://arxiv.org/abs/2505.01336) was accepted at ICML 2025, and [Towards Unsupervised Multi-Agent Reinforcement Learning via Task-Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [EXAIT](https://exait-workshop.github.io) workshop at ICML 2025. See you in Vancouver!
 - I am presenting our recent work [Towards Principled Multi-Agent Task Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas). See you in London!
