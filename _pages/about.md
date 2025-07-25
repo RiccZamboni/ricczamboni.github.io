@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Briefly
----
 
 I am a PhD candidate at Politecnico di Milano, working under the supervision of Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it).
 
