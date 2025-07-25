@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Briefly
----
 
 I am a PhD candidate at Politecnico di Milano, working under the supervision of Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it).
 
@@ -22,7 +20,7 @@ Lately, I have been focused on what we can do before the actual task is even def
 To that end, I have dived into topics like partial observability, multi-agent RL, and decision-making under general utility functions. I have also worked with Siemens AT to bring scalable multi-agent RL into industrial production scheduling, because what’s cooler than seeing theory meet factory floors?
 
 
-News
+News et al.
 ---
 
 (**2025**) 
