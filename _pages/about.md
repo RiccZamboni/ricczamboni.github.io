@@ -24,7 +24,7 @@ News et al.
 ---
 
 (**2025**) 
-
+- I gave a talk at [Eugene Vinitsky](https://www.eugenevinitsky.com)'s amazing [Emerge Lab](https://emerge-lab.github.io) about new frontiers in unsupervised pre-training for Reinforcement Learning. You can find a simplified slide deck [here](/files/RG_EmergeLab.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 - Our position paper on [Remembering the Markov Property in Cooperative MARL](https://arxiv.org/abs/2507.18333) got accepted at the [Finding the Frame](https://sites.google.com/view/findingtheframe/home) workshop at RLC 2025! The awesome Kale-ab will be in Edmonton to present it, stop by!
 - I started a research collaboration with [Inephany](https://www.inephany.com) on the use of RL for large (language) models hyperparameter tuning. Excited to see what this will lead to!
 - Good news for the explorers: the work with my amazing collaborators on [Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](https://arxiv.org/abs/2505.01336) was accepted at ICML 2025, and [Towards Unsupervised Multi-Agent Reinforcement Learning via Task-Agnostic Exploration](https://arxiv.org/abs/2502.08365) at the [EXAIT](https://exait-workshop.github.io) workshop at ICML 2025. See you in Vancouver!
@@ -37,7 +37,7 @@ News et al.
 - I am giving a talk to the [RL Virtual Reading Group](https://agents.inf.ed.ac.uk/reading-group/) about advancing our understanding of learning purely explorative policies in POMDPs. You can find the recording on [You Tube](https://www.youtube.com/watch?v=hAxd6--b7TM).
 - Grateful to be part of the Best Reviewer Award team at [ICML2024](https://icml.cc/virtual/2024/awards_detail).
 - I am attending the [Machine Learning Summer School](https://groups.oist.jp/mlss) in Onna, Japan.
-- Our paper [The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_95.pdf) was accepted at the just born [RLC](https://rl-conference.cc/2024/index.html) conference! I'll do a research tour between Vienna and Amherst to talk about unsupervised RL in POMDPs!
+- Our paper [The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_95.pdf) was accepted at the brand-new [RLC](https://rl-conference.cc/2024/index.html) conference! I'll do a research tour between Vienna and Amherst to talk about unsupervised RL in POMDPs!
 - Our paper [How to explore with belief: state entropy maximization in POMDPs](https://dl.acm.org/doi/10.5555/3692070.3694469) was accepted at ICML 2024. 
 
 (**2023**) 
