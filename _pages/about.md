@@ -17,7 +17,7 @@ My research is in Reinforcement Learning (RL), and I am especially interested in
 
 Lately, I have been focused on what we can do before the actual task is even defined, things like pre-training models that make RL agents more general, more adaptable, and with more diverse behaviors. My goal is to develop methods that scale, generalize well, and are ready to tackle real-world messiness head-on.
 
-To that end, I have dived into topics like partial observability, multi-agent RL, and decision-making under general utility functions. I have also worked with Siemens AT to bring scalable multi-agent RL into industrial production scheduling, because what’s cooler than seeing theory meet factory floors?
+To that end, I have dived into topics like partial observability, multi-agent RL, and decision-making under general utility functions. I have worked with Siemens AT to bring scalable multi-agent RL into industrial production scheduling, and more recently I have been collaborating with [Inephany](https://www.inephany.com) on how to leverage RL for hyperparameter optimization in LLMs.
 
 
 News et al.
