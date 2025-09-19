@@ -13,18 +13,18 @@ I am a PhD candidate at Politecnico di Milano, working under the supervision of 
 
 You can check out my (mostly up-to-date) CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}, but for the freshest updates, my Scholar or BlueSky profiles might be more reliable. And if you're curious about anything, feel free to drop me an email, I’m always happy to chat!
 
-My research is in Reinforcement Learning (RL), and I am especially interested in getting around some of the usual pain points, like relying on massive amounts of data, training everything from scratch, or needing centralized schemes when multiple agents are involved. Real-world applications don’t always play by those rules, unfortunately.
+My research is in **Reinforcement Learning** (RL), and I am especially interested in getting around some of the usual pain points, like relying on massive amounts of data, training everything from scratch, or needing centralized schemes when multiple agents are involved. Real-world applications don’t always play by those rules, unfortunately.
 
-Lately, I have been focused on what we can do before the actual task is even defined, things like pre-training models that make RL agents more general, more adaptable, and with more diverse behaviors. My goal is to develop methods that scale, generalize well, and are ready to tackle real-world messiness head-on.
+Lately, I have been focused on what we can do before the actual task is even defined, a field called **unsupervised RL**: things like **pre-training models** that make RL agents more general, more adaptable, and with more diverse behaviors. My goal is to develop methods that scale, generalize well, and are ready to tackle real-world messiness head-on.
 
-To that end, I have dived into topics like partial observability, multi-agent RL, and decision-making under general utility functions. I have worked with Siemens AT to bring scalable multi-agent RL into industrial production scheduling, and more recently I have been collaborating with [Inephany](https://www.inephany.com) on how to leverage RL for hyperparameter optimization in LLMs.
+To that end, I have dived into topics like **partial observability**, **multi-agency**, and decision-making under **general utility functions**. I have worked with Siemens to bring scalable multi-agent RL into industrial production scheduling, and more recently I have been collaborating with a London-based start-up, Inephany, on how to leverage RL for hyperparameter optimization in LLMs!
 
 
 News et al.
 ---
 
 (**2025**) 
-- After a couple of improvements, our work on unsupervised pre-training in MARL [Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.08365) was accepted at NeurIPS 2025!
+- After a couple of iterations, our work on unsupervised pre-training in MARL [Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.08365) was accepted at NeurIPS 2025! See you in San Diego/Mexico City/Copenhagen!
 - I gave a talk at [Eugene Vinitsky](https://www.eugenevinitsky.com)'s amazing [Emerge Lab](https://emerge-lab.github.io) about new frontiers in unsupervised pre-training for Reinforcement Learning. You can find a simplified slide deck [here](/files/RG_EmergeLab.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 - Our position paper on [Remembering the Markov Property in Cooperative MARL](https://arxiv.org/abs/2507.18333) got accepted at the [Finding the Frame](https://sites.google.com/view/findingtheframe/home) workshop at RLC 2025! The awesome Kale-ab will be in Edmonton to present it, stop by! Also, it won the best poster award at [Deep Learning Indaba](https://deeplearningindaba.com/2025/)!
 - I started a research collaboration with [Inephany](https://www.inephany.com) on the use of RL for large (language) models hyperparameter tuning. Excited to see what this will lead to!
