@@ -24,7 +24,7 @@ News et al.
 ---
 
 (**2025**) 
-- After a couple of iterations, our work on unsupervised pre-training in MARL [Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.08365) was accepted at **NeurIPS 2025**! See you in San Diego/Mexico City/Copenhagen!
+- After a couple of iterations, our work on unsupervised pre-training in MARL [Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.08365) was accepted at **NeurIPs 2025**! See you in San Diego/Mexico City/Copenhagen!
 - I gave a talk at [Eugene Vinitsky](https://www.eugenevinitsky.com)'s amazing [Emerge Lab](https://emerge-lab.github.io) about new frontiers in unsupervised pre-training for Reinforcement Learning. You can find a simplified slide deck [here](/files/RG_EmergeLab.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 - Our position paper on [Remembering the Markov Property in Cooperative MARL](https://arxiv.org/abs/2507.18333) got accepted at the [Finding the Frame](https://sites.google.com/view/findingtheframe/home) **workshop @ RLC 2025**! The awesome Kale-ab will be in Edmonton to present it, stop by! Also, it won the best poster award at [Deep Learning Indaba](https://deeplearningindaba.com/2025/)!
 - I started a research collaboration with [Inephany](https://www.inephany.com) on the use of RL for large (language) models hyperparameter tuning. Excited to see what this will lead to!
