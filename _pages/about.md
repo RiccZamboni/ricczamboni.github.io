@@ -24,6 +24,7 @@ News et al.
 ---
 
 (**2025**) 
+- I successfully defended my [PhD Thesis](/files/thesis.pdf){:target="_blank"}{:rel="noopener noreferrer"}!
 - New pre-print out! In [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) we investigated how to compress behaviors without supervision in a scalable fashion and show how to do policy optimization in the (latent) behavior space! 
 - After a couple of iterations, our work on unsupervised pre-training in MARL [Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.08365) was accepted at **NeurIPS 2025**! See you in San Diego/Mexico City/Copenhagen!
 - I gave a talk at [Eugene Vinitsky](https://www.eugenevinitsky.com)'s amazing [Emerge Lab](https://emerge-lab.github.io) about new frontiers in unsupervised pre-training for Reinforcement Learning. You can find a simplified slide deck [here](/files/RG_EmergeLab.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
