@@ -9,22 +9,25 @@ redirect_from:
 ---
 
 
-I am a PhD candidate at Politecnico di Milano, working under the supervision of Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it).
+I am a Research Scientist at Huawei's Research Center in Paris, where I work with [Milad Sefidgaran](https://scholar.google.com/citations?hl=en&user=-ZT1wPgAAAAJ&view_op=list_works&sortby=pubdate) on (Unsupervised) Reinforcement Learning and Generalization. I obtained my PhD in Information Technology at Politecnico di Milano advised by Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it).
 
-You can check out my (mostly up-to-date) CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}, but for the freshest updates, my Scholar or BlueSky profiles might be more reliable. And if you're curious about anything, feel free to drop me an email, I’m always happy to chat!
+You can check out my (hopefully up-to-date) CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}, but for the freshest updates, my Scholar or BlueSky profiles might be more reliable. And if you're curious about anything, feel free to drop me an email, I’m always happy to chat!
 
 My research is in **Reinforcement Learning** (RL), and I am especially interested in getting around some of the usual pain points, like relying on massive amounts of data, training everything from scratch, or needing centralized schemes when multiple agents are involved. Real-world applications don’t always play by those rules, unfortunately.
 
-Lately, I have been focused on what we can do before the actual task is even defined, a field called **unsupervised RL**: things like **pre-training models** that make RL agents more general, more adaptable, and with more diverse behaviors. My goal is to develop methods that scale, generalize well, and are ready to tackle real-world messiness head-on.
+Lately, I have been focusing on what we can do before the actual task is even defined, a field called **unsupervised RL**: things like **pre-training models** that make RL agents more general, more adaptable, and with more diverse behaviors.
 
-To that end, I have dived into topics like **partial observability**, **multi-agency**, and decision-making under **general utility functions**. I have worked with **Siemens** to bring scalable multi-agent RL into industrial production scheduling, and more recently I have been collaborating with a London-based start-up, **Inephany**, on how to leverage RL for hyperparameter optimization in LLMs!
+To that end, I have dived into topics like **partial observability**, **multi-agency**, and decision-making under **general utility functions**. I have also worked with **Siemens**'s Cyber Physical Systems Team in Wien to bring scalable multi-agent RL into industrial production scheduling, and with [Inephany](https://www.inephany.com/) on how to leverage RL for hyperparameter optimization in LLMs and large models in general.
 
 
 News et al.
----
 
+(**2026**) 
+- Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) was accepted at **ICLR 2026**!
+- Our spin-off [Probing Dec-POMDP Reasoning in Cooperative MARL](https://openreview.net/forum?id=gSK8tR7du3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Difaamas.org%2FAAMAS%2F2026%2FConference%2FAuthors%23your-submissions) got accepted at **AAMAS 2026**!
 (**2025**) 
-- I successfully defended my [PhD Thesis](/files/thesis.pdf){:target="_blank"}{:rel="noopener noreferrer"}!
+- I joined Huawei's Research Center in Paris to continue working on Reinforcement Learning and other interesting stuff!
+- I successfully defended my [PhD Thesis](https://www.politesi.polimi.it/handle/10589/244357)!
 - New pre-print out! In [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) we investigated how to compress behaviors without supervision in a scalable fashion and show how to do policy optimization in the (latent) behavior space! 
 - After a couple of iterations, our work on unsupervised pre-training in MARL [Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.08365) was accepted at **NeurIPS 2025**! See you in San Diego/Mexico City/Copenhagen!
 - I gave a talk at [Eugene Vinitsky](https://www.eugenevinitsky.com)'s amazing [Emerge Lab](https://emerge-lab.github.io) about new frontiers in unsupervised pre-training for Reinforcement Learning. You can find a simplified slide deck [here](/files/RG_EmergeLab.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
