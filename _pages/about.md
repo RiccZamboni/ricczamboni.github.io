@@ -24,8 +24,10 @@ News et al.
 
 (**2026**) 
 - Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) was accepted at **ICLR 2026**!
-- Our spin-off [Probing Dec-POMDP Reasoning in Cooperative MARL](https://openreview.net/forum?id=gSK8tR7du3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Difaamas.org%2FAAMAS%2F2026%2FConference%2FAuthors%23your-submissions) got accepted at **AAMAS 2026**!
+- Our spin-off "Probing Dec-POMDP Reasoning in Cooperative MARL" got accepted at **AAMAS 2026**!
+  
 (**2025**) 
+
 - I joined Huawei's Research Center in Paris to continue working on Reinforcement Learning and other interesting stuff!
 - I successfully defended my [PhD Thesis](https://www.politesi.polimi.it/handle/10589/244357)!
 - New pre-print out! In [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) we investigated how to compress behaviors without supervision in a scalable fashion and show how to do policy optimization in the (latent) behavior space! 
