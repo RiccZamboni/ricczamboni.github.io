@@ -15,7 +15,7 @@ You can check out my (hopefully up-to-date) CV [here](/files/Academic_CV.pdf){:t
 
 My research is in **Reinforcement Learning** (RL), and I am especially interested in getting around some of the usual pain points, as training everything from scratch. Real-world applications don’t always play by those rules, unfortunately.
 
-Lately, I have been focusing on what we'd better do before the agent is released in the wild, a field called **unsupervised RL**: things like **pre-training models** (policies, policy spaces, representations etc.) that make RL agents more general, more adaptable, and with more diverse set of skills.
+Lately, I have been focusing on what we'd better do before the agent is released in the wild, a field called **unsupervised RL**: things like **pre-training models** (policies, policy spaces, representations etc.) that make RL agents more general, more adaptable, and with a more diverse set of skills.
 
 To that end, I have also dived into topics like **partial observability**, **multi-agency**, and decision-making under **general utility functions**. Throughout my PhD, I have also worked with **Siemens**'s Cyber Physical Systems Team in Wien to bring scalable multi-agent RL into industrial production scheduling, and with [Inephany](https://www.inephany.com/)'s great team on how to leverage RL for hyperparameter optimization for large models.
 
