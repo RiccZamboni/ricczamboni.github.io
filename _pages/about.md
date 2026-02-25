@@ -25,7 +25,7 @@ News et al.
 (**2026**) 
 - New pre-print out! In [K-Myriad: Jump-starting Reinforcement Learning with Unsupervised Parallel Agents](https://arxiv.org/abs/2601.18580) we expand over our ICML paper to push forward the boundaries of massive parallel policy pre-training for behavioral diversity and jump-start RL!
 - Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) was accepted at **ICLR 2026**!
-- Our spin-off [Probing Dec-POMDP Reasoning in Cooperative MARL](https://arxiv.org/abs/2602.20804) got accepted at **AAMAS 2026**!
+- Our spin-off [Probing Dec-POMDP Reasoning in Cooperative MARL](https://arxiv.org/abs/2602.20804) got accepted at **AAMAS 2026**! In this work, we challenge common benchmarks for multi-agent deicison-making, providing evidence that success on these benchmarks often comes from shortcuts!
   
 (**2025**) 
 
