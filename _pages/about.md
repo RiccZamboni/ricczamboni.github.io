@@ -13,11 +13,11 @@ I am a Research Scientist at Huawei's Research Center in Paris, where I work wit
 
 You can check out my (hopefully up-to-date) CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}, but for the freshest updates, my Scholar or BlueSky profiles might be more reliable. And if you're curious about anything, feel free to drop me an email, I’m always happy to chat!
 
-My research is in **Reinforcement Learning** (RL), and I am especially interested in getting around some of the usual pain points, like relying on massive amounts of data, training everything from scratch, or needing centralized schemes when multiple agents are involved. Real-world applications don’t always play by those rules, unfortunately.
+My research is in **Reinforcement Learning** (RL), and I am especially interested in getting around some of the usual pain points, like training everything from scratch. Real-world applications don’t always play by those rules, unfortunately.
 
-Lately, I have been focusing on what we can do before the actual task is even defined, a field called **unsupervised RL**: things like **pre-training models** that make RL agents more general, more adaptable, and with more diverse behaviors.
+Lately, I have been focusing on what we can do before the agent is released in the wild, a field called **unsupervised RL**: things like **pre-training models**, policies, policy spaces, representations, that make RL agents more general, more adaptable, and with more diverse behaviors.
 
-To that end, I have dived into topics like **partial observability**, **multi-agency**, and decision-making under **general utility functions**. I have also worked with **Siemens**'s Cyber Physical Systems Team in Wien to bring scalable multi-agent RL into industrial production scheduling, and with [Inephany](https://www.inephany.com/) on how to leverage RL for hyperparameter optimization in LLMs and large models in general.
+To that end, I have also dived into topics like **partial observability**, **multi-agency**, and decision-making under **general utility functions**. Throughout my PhD, I have also worked with **Siemens**'s Cyber Physical Systems Team in Wien to bring scalable multi-agent RL into industrial production scheduling, and with [Inephany](https://www.inephany.com/)'s great team on how to leverage RL for hyperparameter optimization for large models.
 
 
 News et al.
@@ -25,7 +25,7 @@ News et al.
 (**2026**) 
 - New pre-print out! In [K-Myriad: Jump-starting Reinforcement Learning with Unsupervised Parallel Agents](https://arxiv.org/abs/2601.18580) we expand over our ICML paper to push forward the boundaries of massive parallel policy pre-training for behavioral diversity and jump-start RL!
 - Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) was accepted at **ICLR 2026**!
-- Our spin-off "Probing Dec-POMDP Reasoning in Cooperative MARL" got accepted at **AAMAS 2026**!
+- Our spin-off [Probing Dec-POMDP Reasoning in Cooperative MARL](https://arxiv.org/abs/2602.20804) got accepted at **AAMAS 2026**!
   
 (**2025**) 
 
