@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Research Scientist at Huawei's Research Center in Paris, where I work with [Milad Sefidgaran](https://scholar.google.com/citations?hl=en&user=-ZT1wPgAAAAJ&view_op=list_works&sortby=pubdate) on (Unsupervised) Reinforcement Learning and Generalization. I obtained my PhD in Information Technology at Politecnico di Milano advised by Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it).
+I am a Research Scientist at Huawei's Research Center in Paris, where I work with [Milad Sefidgaran](https://scholar.google.com/citations?hl=en&user=-ZT1wPgAAAAJ&view_op=list_works&sortby=pubdate) on (Unsupervised) Reinforcement Learning and Generalization. I obtained my PhD in Information Technology at Politecnico di Milano advised by Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it), with a thesis on [New directions in pre-training for Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/244357).
 
 You can check out my (hopefully up-to-date) CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}, but for the freshest updates, my Scholar or BlueSky profiles might be more reliable. And if you're curious about anything, feel free to drop me an email, I’m always happy to chat!
 
@@ -23,8 +23,9 @@ To that end, I have also dived into topics like **partial observability**, **mul
 News et al.
 
 (**2026**) 
+- I was appointed as Expert taking care of the management of the interfacing between Huawei and Eurecom for the research collaboration on **Advanced and Intelligent Wireless Networks**!
 - New pre-print out! In [K-Myriad: Jump-starting Reinforcement Learning with Unsupervised Parallel Agents](https://arxiv.org/abs/2601.18580) we expand over our ICML paper to push forward the boundaries of massive parallel policy pre-training for behavioral diversity and jump-start RL!
-- Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) was accepted at **ICLR 2026**!
+- Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) has been accepted at **ICLR 2026**!
 - Our spin-off [Probing Dec-POMDP Reasoning in Cooperative MARL](https://arxiv.org/abs/2602.20804) got accepted at **AAMAS 2026**! In this work, we challenge common benchmarks for multi-agent deicison-making, providing evidence that success on these benchmarks often comes from shortcuts!
   
 (**2025**) 
