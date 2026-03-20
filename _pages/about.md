@@ -23,7 +23,7 @@ To that end, I have also dived into topics like **partial observability**, **mul
 News et al.
 
 (**2026**) 
-- I was appointed as Coordinator in the collaboration between Huawei and Eurecom!
+- I was appointed as one of the Coordinators in the research collaboration between Huawei and Eurecom!
 - New pre-print out! In [K-Myriad: Jump-starting Reinforcement Learning with Unsupervised Parallel Agents](https://arxiv.org/abs/2601.18580) we expand over our ICML paper to push forward the boundaries of massive parallel policy pre-training for behavioral diversity and jump-start RL!
 - Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) has been accepted at **ICLR 2026**!
 - Our spin-off [Probing Dec-POMDP Reasoning in Cooperative MARL](https://arxiv.org/abs/2602.20804) got accepted at **AAMAS 2026**! In this work, we challenge common benchmarks for multi-agent deicison-making, providing evidence that success on these benchmarks often comes from shortcuts!
