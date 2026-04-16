@@ -23,7 +23,7 @@ To that end, I have also dived into topics like **partial observability**, **mul
 News et al.
 
 (**2026**) 
-- I am giving a talk to the [RL & Agents Reading Group](https://edinburgh-rl.github.io/reading-group) about our latest research line on unsupervised pre-training for policy space compression: how to learn (over) the latent behavior space in RL rather than in the policy parameters space!
+- I am giving a talk to the [RL & Agents Reading Group](https://edinburgh-rl.github.io/reading-group) about our latest research line on unsupervised pre-training for policy space compression: in [this paper](https://arxiv.org/abs/2509.22566) and [this one as well](https://arxiv.org/abs/2603.27044) we investigated how to learn (over) the latent behavior space in RL rather than in the policy parameters space! 
 - I was appointed as one of the Coordinators in the research collaboration between Huawei and Eurecom, mostly working with [Matteo Zecchin](https://scholar.google.com/citations?user=cV3oJxgAAAAJ&hl=it) and [Photios Stavrou](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=s7KQ1fcAAAAJ&sortby=pubdate).
 - New pre-print out! In [K-Myriad: Jump-starting Reinforcement Learning with Unsupervised Parallel Agents](https://arxiv.org/abs/2601.18580) we expand over our ICML paper to push forward the boundaries of massive parallel policy pre-training for behavioral diversity and jump-start RL!
 - Our work on unsupervised policy compression [From Parameters to Behaviors: Unsupervised Compression of the Policy Space](https://arxiv.org/abs/2509.22566) has been accepted at **ICLR 2026**!
