@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Research Scientist at Huawei's Research Center in Paris, where I work with [Milad Sefidgaran](https://scholar.google.com/citations?hl=en&user=-ZT1wPgAAAAJ&view_op=list_works&sortby=pubdate) on (Unsupervised) Reinforcement Learning, World-Models and Generalization. I obtained my PhD in Information Technology at Politecnico di Milano advised by Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it), with a thesis on [New directions in pre-training for Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/244357).
+I am a Research Scientist at Huawei's Research Center in Paris, where I work with [Milad Sefidgaran](https://scholar.google.com/citations?hl=en&user=-ZT1wPgAAAAJ&view_op=list_works&sortby=pubdate) on (Unsupervised) Reinforcement Learning, World-Models and Generalization (and LLMs, obviously). I obtained my PhD in Information Technology at Politecnico di Milano advised by Prof. [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) at the [RL^3 Group](https://rl.airlab.deib.polimi.it), with a thesis on [New directions in pre-training for Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/244357).
 
 You can check out my (hopefully up-to-date) CV [here](/files/Academic_CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}, but for the freshest updates, my Scholar or BlueSky profiles might be more reliable. And if you're curious about anything, feel free to drop me an email, I’m always happy to chat!
 
