@@ -1,0 +1,154 @@
+/* Lovely early-internet skin — add this after your existing stylesheet. */
+
+:root {
+  --paper: #fffdf5;
+  --ink: #20242b;
+  --muted: #68717d;
+  --link: #0645ad;
+  --link-visited: #5a3696;
+  --line: #c8d0d8;
+  --accent: #ff6b4a;
+  --accent-soft: #fff0e8;
+  --shadow: 4px 4px 0 rgba(32, 36, 43, 0.12);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background:
+    linear-gradient(rgba(6, 69, 173, 0.035) 1px, transparent 1px),
+    var(--paper);
+  background-size: 100% 28px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+body::before {
+  content: "";
+  display: block;
+  height: 7px;
+  background: repeating-linear-gradient(
+    135deg,
+    var(--accent) 0 12px,
+    #ffd166 12px 24px,
+    #70c1b3 24px 36px,
+    #247ba0 36px 48px
+  );
+}
+
+main,
+.container,
+.wrapper {
+  width: min(100% - 2rem, 760px);
+  margin-inline: auto;
+}
+
+main { padding: 4.5rem 0 5rem; }
+
+header {
+  margin-bottom: 3.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 2px dotted var(--line);
+}
+
+h1, h2, h3 {
+  color: var(--ink);
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1.15;
+  letter-spacing: -0.04em;
+}
+
+h1 {
+  margin: 0 0 0.65rem;
+  font-size: clamp(2.4rem, 8vw, 4.4rem);
+  font-weight: 700;
+}
+
+h1::before {
+  content: "✦ ";
+  color: var(--accent);
+  font-size: 0.7em;
+  vertical-align: 0.15em;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 3rem 0 1rem;
+  font-size: 1.45rem;
+}
+
+h2::after {
+  content: "";
+  flex: 1;
+  border-top: 2px dotted var(--line);
+}
+
+p { max-width: 68ch; }
+
+a {
+  color: var(--link);
+  text-decoration-thickness: 0.09em;
+  text-underline-offset: 0.16em;
+}
+
+a:visited { color: var(--link-visited); }
+a:hover, a:focus-visible { color: var(--accent); }
+
+ul { padding-left: 1.35rem; }
+
+li {
+  margin: 0.8rem 0;
+  padding-left: 0.25rem;
+}
+
+li::marker {
+  color: var(--accent);
+  content: "↳  ";
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--accent);
+  background: var(--accent-soft);
+  box-shadow: var(--shadow);
+}
+
+code, pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.88em;
+}
+
+code {
+  padding: 0.1em 0.3em;
+  background: #edf1f4;
+  border: 1px solid var(--line);
+}
+
+footer {
+  margin-top: 4rem;
+  padding-top: 1rem;
+  color: var(--muted);
+  border-top: 2px dotted var(--line);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.78rem;
+}
+
+::selection { color: var(--paper); background: var(--link); }
+
+@media (max-width: 520px) {
+  body { font-size: 17px; }
+  main { padding-top: 3rem; }
+  h2 { font-size: 1.2rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
